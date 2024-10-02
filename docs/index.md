@@ -1,11 +1,11 @@
-# Chansons de la Prairie title title title
+# Chansons de la Prairie
+
+Aims and Objectives of this page:
+Get into the habit of writing doc and updating it.
 
 ## Prairie
 
-### 1. Comment mettre à jour la doc?
-
-a
+First 15 days 
 
 ## Post Prairie
 
-Après les 15 jours de la Prairie, on se retrouve ici
