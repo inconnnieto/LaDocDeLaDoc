@@ -1,0 +1,6 @@
+site_name: PrairieChansons
+nav:
+  - Home: index.md
+  - 1: 1.md
+theme:
+  name: readthedocs
