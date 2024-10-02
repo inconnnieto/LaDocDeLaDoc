@@ -24,7 +24,8 @@ git push
 
 Deployment script create in .yml format
 
-image: python:3.12 
+```
+image: python:3.12
 
 before_script: 
   - pip install mkdocs
@@ -36,4 +37,5 @@ pages:
     paths:
       - public
   rules:
-    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH 
+```
