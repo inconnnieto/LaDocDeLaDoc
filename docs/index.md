@@ -9,6 +9,11 @@ Get into the habit of writing doc and updating it.
 
 First 15 days 
 
+Les exos
+[Tertia](/docs/3_Tertia.md3_Tertia.md)
+[Sexta](/docs/Prairie_Exos/6_Sexta.md6_Sexta.md)
+
+
 ## Post Prairie
 
 ## [Log & troubleshooting](0_Log.md)
