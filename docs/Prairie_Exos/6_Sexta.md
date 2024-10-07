@@ -1,5 +1,5 @@
 # Sexta 
-Retro Engineering Exo
+Retro Engineering Exercise
 
 ## Methodology
 1. Clone https://gitlab.com/Nasyourte/exo-retroengineering

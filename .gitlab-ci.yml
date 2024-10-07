@@ -2,9 +2,7 @@
 image: python:3.12
 # Functions that should be executed before the build script is run
 before_script:
-  - cd docs
   - pip install mkdocs
-  - pip uninstall mkdocs mkdocs-mermaid2-plugin -y || true
   - pip install mkdocs mkdocs-mermaid2-plugin --verbose
 pages:
   script:
