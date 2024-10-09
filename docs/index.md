@@ -20,7 +20,7 @@ First 15 days
 ### Les exos
 * [Tertia](3_Tertia.md)
 * [Sexta](Prairie_Exos/6_Sexta.md)
-* [Septima](Prairie_Exos/7_Septima.md)
+* [Septima](Prairie_Exos/exo_algo_trinker_python/7_Septima.md)
 * [Octavia](Prairie_Exos/8_Octavia/8_octavia.md)
 
 ## Post Prairie
