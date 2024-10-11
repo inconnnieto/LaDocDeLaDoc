@@ -2,6 +2,9 @@
 
 ## Comment mettre à jour la doc?
 
+La première doc que vous allez y mettre devra concerner 
+la doc elle-même : “Comment mettre à jour la doc ? “
+
 ### 1. Create new page
 
 create a new `.md` file in the folder `/docs` and write down notes
