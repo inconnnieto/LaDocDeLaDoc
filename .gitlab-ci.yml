@@ -5,6 +5,7 @@ before_script:
   - pip install mkdocs
   - pip install mkdocs-material
   - pip install mkdocs mkdocs-mermaid2-plugin --verbose
+  - pip install "mkdocs-material[imaging]"
 pages:
   script:
     - mkdocs build
