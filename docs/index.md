@@ -18,10 +18,15 @@ In this section you will find the documentation.
 First 15 days 
 
 ### Les exos
-* [Tertia](3_Tertia.md)
-* [Sexta](Prairie_Exos/6_Sexta.md)
-* [Septima](Prairie_Exos/exo_algo_trinker_python/7_Septima.md)
-* [Octavia](Prairie_Exos/8_Octavia/8_octavia.md)
+* [Prima](prairie_exos/1_Prima.md)
+* [Secunda]
+* [Tertia](prairie_exos/3_Tertia.md)
+* [Quarta](prairie_exos/4_Quarta.md)
+* [Quinta](prairie_exos/5_Quinta.md)
+* [Sexta](prairie_exos/6_Sexta.md)
+* [Septima](prairie_exos/7_Septima.md)
+* [Octavia](prairie_exos/8_octavia.md)
+* [Nona](prairie_exos/9_Nona.md)
 
 ## Post Prairie
 Start of the exponential running days
