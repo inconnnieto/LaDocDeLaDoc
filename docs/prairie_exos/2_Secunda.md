@@ -112,7 +112,7 @@ pages:
 
 Now, every time I push changes to the default branch (mai), GitLab CI/CD will automatically:
 
-* Install MkDocs (if not already installed).
-* Build the site with the mkdocs build command.
-* Move the generated files to the public folder.
-* Deploy the public folder to GitLab Pages.
+1. Install MkDocs (if not already installed).
+2. Build the site with the mkdocs build command.
+3. Move the generated files to the public folder.
+4. Deploy the public folder to GitLab Pages.

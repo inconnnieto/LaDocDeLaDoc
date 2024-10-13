@@ -6,17 +6,19 @@ Write a script (sh, ps or both) that checks if Firefox, Chrome, Python and Node 
 Task objectives:
 
 programs to check:
-* Firefox
-* Chrome
-* Python
-* Node.js
+
+1. Firefox
+2. Chrome
+3. Python
+4. Node.js
 
 check:
+
 * version of each program
 * confirm (2 + 2) = 4
 
 ### Notes
-the arithmetic operation check to ensure script runs without errors.
+the **arithmetic operation** check to ensure script runs without errors.
 
 What does `$` represent?
 In PowerShell(& other scripting languages), `$` symbol is used to denote a variable.
@@ -27,7 +29,7 @@ In PowerShell(& other scripting languages), `$` symbol is used to denote a varia
 
 PowerShell script that runs on a Windows environment and checks the version of the programs
 
-``` ps1
+```ps1
 $node = node --version
 $python = python --version
 $chrome = $(Get-Package -Name "Google Chrome").Version

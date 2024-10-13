@@ -11,7 +11,7 @@ A place for me to organise and regroup my resources and exos as I progress and l
 ### What you will find
 
 1. [The documentation principles](1_MaDoc.md)
-2. [Exos]
+2. [Exos](1_Exos.md)
 3. Scripts trials and errors
 4. Descriptions and tutorials
 5. Examples of scripts and use cases

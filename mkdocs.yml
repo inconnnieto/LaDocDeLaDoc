@@ -1,9 +1,9 @@
-site_name: PrairieChansons
+site_name: Les Chansons de la Doc
 nav:
   - Home: index.md
   - Documentation: 1_MaDoc.md
+  - Exos: 1_Exos.md
   - prairie_exo:
-    - prairie_exo/index.md
     - Prima: prairie_exos/1_Prima.md
     - Secunda: prairie_exos/2_Secunda.md
     - Tertia: prairie_exos/3_Tertia.md
@@ -13,11 +13,10 @@ nav:
     - Septima: prairie_exos/7_Septima.md
     - Octavia: prairie_exos/8_Octavia.md
     - Nona: prairie_exos/9_Nona.md
-  - Log & Troubleshooting: 0_Log.md
   - Languages & Syntax: 
-    - langsynth/index.md
     - Git: 2_Git.md
     - Python: 4_Python.md
+   - Log & Troubleshooting: 0_Log.md
 
 theme:
   name: material

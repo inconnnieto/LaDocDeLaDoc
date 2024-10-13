@@ -1,47 +1,52 @@
 # 6_Sexta 
-Retro Engineering Exercise
+## Retro Engineering Exercise
 
 ## Methodology
-1. Clone https://gitlab.com/Nasyourte/exo-retroengineering
+1. Clone `https://gitlab.com/Nasyourte/exo-retroengineering`
 
-2. Explore the application. Run to note the different features and workflows
+2. Explore the application. Run the application to observe and note the different features and workflows.
 
-Screen states
-1. Plus button, Header
-2. Upon click plus creates a new note
-3. note can be edited → input 
-4. note is saved → displayed
+3. For this exo I have used Draw.io, Mermaid and Figma.
+
+## Screen states
+
+* `plus` button, `header`
+* Upon click, `plus` creates a new note
+* note can be edited via input field
+* note is saved and displayed
 
 ## Use cases and Scenarios
-Indentifying the use cases.
+### Indentifying the use cases.
+
 1. Creating a new note
-    1. Actor : User
-    2. Description : user clicks PLUS button to create a new note
-    3. pre condition : user is on main app screen
-    4. post condition : a new note is created and displayed in the notes list
+
+    * Actor : User
+    * Description : User clicks `plus` button to create a new note
+    * pre condition : User is on main app screen
+    * post condition : a new note is created and displayed in the notes list
+
 2. View all notes
-    1. actor: user
-    2. description: user views list of all notes
 
-**Scenarios**
+    * Actor: User
+    * Description: User views list of all notes
 
-**UC 1 **
-User clicks PLUS button
+### Scenarios
 
-Note opens with text area for note
+#### UC 1
 
-User enters text and clicks VALIDATE
+1. User clicks `PLUS` button
+2. Note opens with text area for note
+3. User enters text and clicks `VALIDATE`
+4. note appears in notes list
 
-note appears in notes list
+#### UC 2
 
-**UC 2**
-
-- User navigates to the main application screen.
-- All existing notes are displayed in the notes container.
+1. User navigates to the main application screen
+2. All existing notes are displayed in the notes container
 
 ### Use case diagrams
 
-## Sequence Diagram
+### Sequence Diagram
 
 ```mermaid
 sequenceDiagram
@@ -85,7 +90,7 @@ View->>User: Display registered note
 8. **User Interface Update**:
     - Finally, the **View** displays the new note interface to the **User**, allowing them to enter content for the new note.
 
-## Activity Diagram
+### Activity Diagram
 
 ```mermaid
 flowchart TD

@@ -6,7 +6,7 @@
 
 I worked with SQL to created a relational databse.
 
-Goal:
+**Goal:**
 create tables for cities and people 
 
 you can check the repo exo [here.](https://gitlab.com/prairie-ia/prairie_exos/-/tree/main/5_Quinta?ref_type=heads)
@@ -109,9 +109,9 @@ GROUP BY city.name;
 ```
 #### Récupérer la liste de toutes les personnes, de celle qui est née le plus proche de Toulouse à celle qui est née le plus loin
 
-The Euclidean distance formula approximates the straight-line distance between a city’s latitude and longitude and a fixed point.
+The **Euclidean** distance formula approximates the straight-line distance between a city’s latitude and longitude and a fixed point.
 
-![](imgs/5_Quinta_formula.PNG)
+![](docs/imgs/5_Quinta_formula.PNG)
 
 coordinates of Toulouse (43.6045° N, 1.4442° E) fixed and constant, multiplication by 111.11 converts the result from degrees to kilometers, assuming a roughly spherical Earth.
 
@@ -130,7 +130,7 @@ JOIN city ON people.city_id = city.id
 ORDER BY distance_km;
 ```
 
-notes:
+#### notes:
 In this test application, the Euclidean distance formula is chosen for its simplicity, speed, and efficiency. 
 
 Using a more accurate formula, (Haversine or Vincenty) would introduce unnecessary computational complexity at this stage, making it more suited for large-scale or production applications where precision is crucial and the computational overhead is acceptable.

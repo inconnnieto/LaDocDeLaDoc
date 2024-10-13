@@ -1,23 +1,23 @@
 # 4_Quarta
 
 ## brief:
-Task: create random groups of learners from list of names of class.
+**Task:** create random groups of learners from list of names of class.
 
-Goal: write a function that splits list of names into smaller groups
+**Goal:** write a function that splits list of names into smaller groups
 
 ## my attempt:
 
-Input: list of names stored in .json file
+**Input:** list of names stored in .json file
 
-Output: list of groups, each containing `k` names, no duplicates
+**Output:** list of groups, each containing `k` names, no duplicates
 
 ## steps
 Pseudo code:
-* create list of names and save in .json format
-* load list of names
-* create function `groupes` taking parameter `k` (n of learners in group)
-* randomly shuffle names
-* split shuffled into groups
+1. create list of names and save in .json format
+2. load list of names
+3. create function `groupes` taking parameter `k` (n of learners in group)
+4. randomly shuffle names
+5. split shuffled into groups
 
 
 ```json
