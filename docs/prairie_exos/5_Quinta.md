@@ -111,7 +111,7 @@ GROUP BY city.name;
 
 The **Euclidean** distance formula approximates the straight-line distance between a city’s latitude and longitude and a fixed point.
 
-![](docs/imgs/5_Quinta_formula.PNG)
+![5_Quinta_formula](https://gitlab.com/prairie-ia/ma_doc/-/raw/mai/docs/imgs/5_Quinta_formula.PNG?ref_type=heads)
 
 coordinates of Toulouse (43.6045° N, 1.4442° E) fixed and constant, multiplication by 111.11 converts the result from degrees to kilometers, assuming a roughly spherical Earth.
 

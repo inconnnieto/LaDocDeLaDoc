@@ -132,7 +132,7 @@ from sklearn.tree import plot_tree
 tree.plot_tree(dtree, feature_names=features)
 plt.show()
 ```
-![8_octavia_df2.png](imgs/8_octavia_df2.png)
+![8_octavia_df2.png](https://gitlab.com/prairie-ia/ma_doc/-/raw/mai/docs/imgs/8_octavia_df2.png?ref_type=heads)
 
 ### Testing the model
 I load the test dataset (10 entries) and use the trained decision tree to make predictions on the test data.

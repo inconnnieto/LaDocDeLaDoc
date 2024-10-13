@@ -18,7 +18,7 @@
 ## 1. Use cases and Scenarios
 ### Indentifying the use cases.
 
-![6_sexta_usecase_drawio.png](imgs/6_sexta_usecase_drawio.png)
+![6_sexta_usecase_drawio.png](https://gitlab.com/prairie-ia/ma_doc/-/raw/mai/docs/imgs/6_sexta_usecase_drawio.png?ref_type=heads)
 
 1. Creating a new note
 
@@ -133,7 +133,7 @@ when a user is created, they can create and manage their own notes, and if the u
 
 ## Wireframe
 
-![6_sexta_wireframe.png](imgs/6_sexta_wireframe.png)
+![6_sexta_wireframe.png](https://gitlab.com/prairie-ia/ma_doc/-/raw/mai/docs/imgs/6_sexta_wireframe.png?ref_type=heads)
 
 Wireframe created for the interface of the app to reflect its various states:
 
