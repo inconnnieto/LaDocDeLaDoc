@@ -1,6 +1,6 @@
 # Les Chansons de la Prairie
 
-well, Hello there!
+## well, Hello there!
 General ... 
 
 ### Aims and Objectives of this page:
@@ -29,7 +29,7 @@ It is a taster into what we will be exploring more in depth
 
 ### Les exos de la Prairie
 * [Prima](prairie_exos/1_Prima.md)
-* [Secunda]
+* [Secunda](prairie_exos/2_Secunda.md)
 * [Tertia](prairie_exos/3_Tertia.md)
 * [Quarta](prairie_exos/4_Quarta.md)
 * [Quinta](prairie_exos/5_Quinta.md)

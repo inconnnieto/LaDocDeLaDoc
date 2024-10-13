@@ -11,7 +11,7 @@ nav:
     - Quinta: prairie_exos/5_Quinta.md
     - Sexta: prairie_exos/6_Sexta.md
     - Septima: prairie_exos/7_Septima.md
-    - Octavia: prairie_exos/8_Octavia.md
+    - Octavia: prairie_exos/8_octavia.md
     - Nona: prairie_exos/9_Nona.md
   - Languages & Syntax: 
     - Git: 2_Git.md
@@ -30,3 +30,5 @@ plugins:
   - offline
   - social
   - tags
+
+docs_dir: docs

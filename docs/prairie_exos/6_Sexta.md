@@ -18,7 +18,7 @@
 ## 1. Use cases and Scenarios
 ### Indentifying the use cases.
 
-![uc](imgs/6_sexta_usecase_drawio.png)
+![6_sexta_usecase_drawio.png](imgs/6_sexta_usecase_drawio.png)
 
 1. Creating a new note
 
@@ -133,7 +133,7 @@ when a user is created, they can create and manage their own notes, and if the u
 
 ## Wireframe
 
-![Wireframe](imgs/6_sexta_wireframe.png)
+![6_sexta_wireframe.png](imgs/6_sexta_wireframe.png)
 
 Wireframe created for the interface of the app to reflect its various states:
 
