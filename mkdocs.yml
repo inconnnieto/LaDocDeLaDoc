@@ -16,7 +16,7 @@ nav:
   - Languages & Syntax: 
     - Git: 2_Git.md
     - Python: 4_Python.md
-   - Log & Troubleshooting: 0_Log.md
+  - Log & Troubleshooting: 0_Log.md
 
 theme:
   name: material
