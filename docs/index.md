@@ -1,23 +1,33 @@
-# Chansons de la Prairie
+# Les Chansons de la Prairie
 
-Aims and Objectives of this page:
+well, Hello there!
+General ... 
 
-Get into the habit of writing doc and updating it.
+### Aims and Objectives of this page:
 
-What you will find?
+Welcome to my doc.
+A place for me to organise and regroup my resources and exos as I progress and learn throughout this year.
 
-* Exos
-* Scripts
-* Examples
+### What you will find
 
-## [La Doc de La Doc](1_MaDoc.md)
+1. [The documentation principles](1_MaDoc.md)
+2. [Exos]
+3. Scripts trials and errors
+4. Descriptions and tutorials
+5. Examples of scripts and use cases
+6. [Ramblings and debugging log of the problems I have encountered](0_Log.md)
 
-In this section you will find the documentation.
+## 1. [La Doc de La Doc](1_MaDoc.md)
 
-## Prairie
-First 15 days 
+In this section you will find the documentation principles and guidelines
 
-### Les exos
+## 2. Exos
+
+### Prairie
+La Prairie is the introduction, first 9 days to the "exponential running" task to have an overview of what we will be covering throughout this academic year. 
+It is a taster into what we will be exploring more in depth
+
+### Les exos de la Prairie
 * [Prima](prairie_exos/1_Prima.md)
 * [Secunda]
 * [Tertia](prairie_exos/3_Tertia.md)

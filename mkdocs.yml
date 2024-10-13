@@ -1,9 +1,28 @@
 site_name: PrairieChansons
 nav:
   - Home: index.md
-  - 1: 1.md
+  - Documentation: 1_MaDoc.md
+  - prairie_exo:
+    - prairie_exo/index.md
+    - Prima: prairie_exos/1_Prima.md
+    - Secunda: prairie_exos/2_Secunda.md
+    - Tertia: prairie_exos/3_Tertia.md
+    - Quarta: prairie_exos/4_Quarta.md
+    - Quinta: prairie_exos/5_Quinta.md
+    - Sexta: prairie_exos/6_Sexta.md
+    - Septima: prairie_exos/7_Septima.md
+    - Octavia: prairie_exos/8_Octavia.md
+    - Nona: prairie_exos/9_Nona.md
+  - Log & Troubleshooting: 0_Log.md
+  - Languages & Syntax: 
+    - langsynth/index.md
+    - Git: 2_Git.md
+    - Python: 4_Python.md
+
 theme:
   name: material
+  features:
+    - navigation.sections
 plugins:
   - mermaid2:
       version: 10.0.2
