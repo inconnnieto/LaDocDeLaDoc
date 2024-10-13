@@ -15,8 +15,10 @@
 * note can be edited via input field
 * note is saved and displayed
 
-## Use cases and Scenarios
+## 1. Use cases and Scenarios
 ### Indentifying the use cases.
+
+![uc](imgs/6_sexta_usecase_drawio.png)
 
 1. Creating a new note
 
@@ -46,7 +48,7 @@
 
 ### Use case diagrams
 
-### Sequence Diagram
+## 2.Sequence Diagram
 
 ```mermaid
 sequenceDiagram
@@ -103,7 +105,7 @@ flowchart TD
     D -->|no| F(no)
     F --> G
 ```
-## Class Diagram
+## 3. Class Diagram
 
 ```mermaid
 classDiagram
@@ -124,12 +126,42 @@ classDiagram
     }
 ```
 
-This indicates a composition relationship
-where a `User` can have multiple `Note` instances associated with them.
+User creates and manages Note instances.
+The `o--` relationship indicates that Note depends on User. A note cannot exist without being associated with a user.
 
-The use of `o--` suggests that the `Note` instances are dependent on the `User` for their lifecycle (e.g., a note cannot exist without a user)
-
-In a practical sense, when a user is created, they can create and manage their own notes, and if the user is deleted, the associated notes may also be removed, emphasizing the relationship.
+when a user is created, they can create and manage their own notes, and if the user is deleted, the associated notes may also be removed, emphasizing the relationship.
 
 ## Wireframe
 
+![Wireframe](imgs/6_sexta_wireframe.png)
+
+Wireframe created for the interface of the app to reflect its various states:
+
+#### Button
+allows users to add a new note. It is fixed in position to remain accessible as users scroll through notes.
+
+**Interaction:**
+Upon click, button creates a new note.
+
+**Additional Interactions**
+On hover, button `Plus` and button `Validate` change colour to
+slightly darker.
+`Plus` button moves depending on screen size.
+
+#### Header section
+This is the main title of the application.
+**NOTE APP** displayed at the top of page.
+
+#### Main Content Area
+Element: Notes Container.
+This area will display the list of notes created by the user.
+
+#### Individual Note Entries
+Element: default note entry.
+Note is created when `plus` button is clicked.
+
+**Interaction:**
+when note clicked, text entry prompted upon creation of the card.
+`Validate` button is clicked to save the entry.
+text field can be expanded with bottom right bars.
+Once validated, note number turns green.
